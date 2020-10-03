@@ -1,0 +1,30 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<Title> Internet of Things</title>
+</head>
+<body>
+<br>
+<br>
+<p>The Internet of things (IoT) is the network of physical devices, vehicles, home appliances and other items embedded with electronics, software, sensors, actuators, and network connectivity which enables these objects to connect and exchange data.[1][2][3] Each thing is uniquely identifiable through its embedded computing system but is able to inter-operate within the existing Internet infrastructure.
+</p>
+
+<p>The IoT allows objects to be sensed or controlled remotely across existing network infrastructure,[6] creating opportunities for more direct integration of the physical world into computer-based systems, and resulting in improved efficiency, accuracy and economic benefit in addition to reduced human intervention.[7][8][9][10] When IoT is augmented with sensors and actuators, the technology becomes an instance of the more general class of cyber-physical systems, which also encompasses technologies such as smart grids, virtual power plants, smart homes, intelligent transportation and smart cities.
+</p>
+
+<p>"Things," in the IoT sense, can refer to a wide variety of devices such as heart monitoring implants, biochip transponders on farm animals, cameras streaming live feeds of wild animals in coastal waters,[11] automobiles with built-in sensors, DNA analysis devices for environmental/food/pathogen monitoring,[12] or field operation devices that assist firefighters in search and rescue operations.[13] Legal scholars suggest regarding "things" as an "inextricable mixture of hardware, software, data and service".[14]
+</p>
+These devices collect useful data with the help of various existing technologies and then autonomously flow the data between other devices.[15]
+
+The term "the Internet of things" was coined by Kevin Ashton of Procter & Gamble, later MIT's Auto-ID Center, in 1999.[16]
+
+
+<h3>Applications</h3>
+<p>Smart Home[edit]
+IoT devices are a part of the larger concept of home automation, also known as domotics. Large smart home systems utilize a main hub or controller to provide users with a central control for all of their devices. These devices can include lighting, heating and air conditioning, media and security systems.[54] Ease of usability is the most immediate benefit to connecting these functionalities. Long term benefits can include the ability to create a more environmentally friendly home by automating some functions such as ensuring lights and electronics are turned off. One of the major obstacles to obtaining smart home technology is the high initial cost. [55]
+Transportation[edit]
+</p>
+<h3>Digital variable speed-limit sign.</h3>
+The IoT can assist in the integration of communications, control, and information processing across various transportation systems. Application of the IoT extends to all aspects of transportation systems (i.e. the vehicle[101], the infrastructure, and the driver or user). Dynamic interaction between these components of a transport system enables inter and intra vehicular communication, smart traffic control, smart parking, electronic toll collection systems, logistic and fleet management, vehicle control, and safety and road assistance.[40][102] In Logistics and Fleet Management for example, The IoT platform can continuously monitor the location and conditions of cargo and assets via wireless sensors and send specific alerts when management exceptions occur (delays, damages, thefts, etc.).
+</body>
+</html>

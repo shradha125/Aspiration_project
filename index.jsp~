@@ -1,0 +1,80 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+<Table border=5 cellSpacing=0 cellPadding=0 width="100%" bgColor="white" >
+<tr>
+<td vAlign=top align="center">
+
+<Table bgColor="white" border=0 cellSpacing=0 cellPadding=0 width=100 align=center>
+<tr>
+<td height=100 width="30%"><IMG src="/images/logo.jpeg" width=390 height=100></td>
+<td height=100 width="30%"><IMG border=0 alt="" src="/images/logo.jpeg" width=500 height=100>&nbsp;</td>
+<td height=100 width="30%"><IMG border=0 alt="" src="/images/logo.jpeg" width=390 height=100>&nbsp;</td>
+</tr>
+</Table>
+
+<Table border=15 cellSpacing=10 cellPadding=0 width="100%" bgColor="pink">
+<tr>
+
+<td bgColor=pink vAlign=top align="center"><Font size=2 face=Arial><B>
+<a href="home.jsp">Home</a></B></Font></td>
+
+<td bgColor=pink vAlign=top align="center"><Font size=2 face=Arial><B>
+<a href="sregister.jsp">For Student</a></B></Font></td>
+
+<td bgColor=pink vAlign=top align="center"><Font size=2 face=Arial><B>
+ <a href="admin.jsp">Administrator</a></B></Font></td>
+
+<td bgColor=pink vAlign=top align="center"><Font size=2 face=Arial><B>
+ <a href="About.html">About</a></B></Font></td>
+ </tr>
+ </Table>
+
+<Table border=0 cellSpacing=0 cellPadding=10 align="left" width="15%" bgColor="green">
+<tr>
+<td bgColor=magenda vAlign=top width="18%" align="center">&nbsp;
+
+
+<TABLE border=10 cellSpacing=10 cellPadding=10 width="100%" bgColor="grey">
+
+<tr>
+<td bgColor=lightgrey width="100%"><Font size=2 face=Arial><B>
+List of Courses</B></Font></td>
+</tr>
+
+<tr>
+<td bgColor=lightgreen width="100%"><Font size=2 face=Arial><B>
+<a href="IOT.html">Internet Of Things</a></B></Font></td>
+</tr>
+
+<tr>
+<td bgColor=lightgreen width="100%"><Font size=2 face=Arial><B>
+<a href="ai.html">Artificial Intelligence</a></B></Font></td>
+</tr>
+
+<tr>
+<td bgColor=lightgreen width="100%"><Font size=2 face=Arial><B>
+<a href="cs.html">Cyber Security</a></B></Font></td>
+</tr>
+
+<tr>
+<td bgColor=lightgreen width="100%"><Font size=2 face=Arial><B>
+<a href="cn.html">Computer Networking</a></B></Font></td>
+</tr>
+</TABLE>
+
+
+
+
+</Table>
+</Table>
+</body>
+</html>
