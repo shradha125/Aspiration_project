@@ -1,0 +1,19 @@
+.back_image{
+      background-image: url("../images/flag_center.png");
+        background-repeat: no-repeat;
+        margin-left: 10px;
+        padding-bottom: 300px;
+        height: 50px;
+        
+}
+
+
+
+}
+.reg{
+   margin-top: auto;
+   margin-bottom: auto;
+   margin-left: 50px;
+ font-size: 20px;
+
+}
