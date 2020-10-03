@@ -1,0 +1,49 @@
+<web-app>
+<welcome-file-list>
+<welcome-file> index.jsp</welcome-file>
+<welcome-file> sregister.jsp</welcome-file>
+<welcome-file> admin.jsp</welcome-file>
+<welcome-file> alogin.jsp</welcome-file>
+</welcome-file-list>
+
+<servlet>
+<servlet-name>AddDetails</servlet-name>
+<servlet-class>AddDetails</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>AddDetails</servlet-name>
+<url-pattern>/AddDetails</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>dateValidate</servlet-name>
+<servlet-class>dateValidate</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>dateValidate</servlet-name>
+<url-pattern>/dateValidate</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>FirstHiddenPage</servlet-name>
+<servlet-class>FirstHiddenPage</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>FirstHiddenPage</servlet-name>
+<url-pattern>/FirstHiddenPage</url-pattern>
+</servlet-mapping>
+
+<servlet>
+<servlet-name>SecondHiddenPage</servlet-name>
+<servlet-class>SecondHiddenPage</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>SecondHiddenPage</servlet-name>
+<url-pattern>/SecondHiddenPage</url-pattern>
+</servlet-mapping>
+
+</web-app>
